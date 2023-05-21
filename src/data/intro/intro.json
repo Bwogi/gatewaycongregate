@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "title": "Building Resilience, Rebuilding Lives.",
+        "desc": "Gateway Homes To Independence helps empower your resilience by experiencing the Transformative Care at our Catastrophic Injury Restorative Center.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Compassionate Care for Catastrophic Injuries",
+        "desc": "Join us at Gateway Homes on the Journey to Recovery with our Comprehensive Medical Management Solutions.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Restoring Lives, One Step at a Time.",
+        "desc": "Discover our Medical Management and Catastrophic Injury Restorative Care Services here at Gateway Homes.",
+        "backgroundImage": "/images/hero-image/hero-3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Restoring Hope, Empowering Lives",
+        "desc": "We provide services to improve, inspire and enrich the lives of our patients and their families.",
+        "backgroundImage": "/images/hero-image/hero-4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Family-Centered Rehabilitation",
+        "desc": "Here at Gateway Homes, our healthcare providers engage in discussions with family about the progress and goals of their loved one's rehabilitation.",
+        "backgroundImage": "/images/hero-image/hero-5.jpg"
+        
+    },
+    {
+        "id": "6",
+        "title": "Building Strength, Restoring Function",
+        "desc": "Unleash the Potential of our Medical Management Services for Catastrophic Injuries. A patient working with a physical therapist focusing on muscle strengthening exercises.",
+        "backgroundImage": "/images/hero-image/hero-6.jpg"
+    }
+]

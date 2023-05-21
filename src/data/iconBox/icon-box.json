@@ -1,0 +1,115 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Medical Supervision",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "24-hour Skilled Nursing",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Medical Management",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Private & Semi-Private Rooms",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Durable Medical Equipment",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Meals & Snacks",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Nutritional Assessment",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Kosher Style Meals Available",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Counseling",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Physical Therapy",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Speech Therapy",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Safety & Security",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Housekeeping",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "24-hour Admissions",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+]
