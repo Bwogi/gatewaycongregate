@@ -21,8 +21,8 @@ const Footer = () => {
                                 <div className="content">
 
 
-                                    <p><a href="tel:+18188811182">(+1) 818-881-1182</a></p>
-                                    <p><a thref="mailto:info@gcongregate.com">info@gcongregate.com</a> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>hello@hasagency.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
@@ -35,7 +35,7 @@ const Footer = () => {
 
                     {FooterData && FooterData.map((single, key) => {
                             return(
-                                <div key={key} className="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-2 mb-6">
+                                <div key={key} className="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6 mb-6">
                                     <FooterLinkItem data={single} key={key} />
                                 </div>
                             ); 
@@ -46,7 +46,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Homes&reg;</strong> LLC. All rights reserved.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Congregate LLC.</strong> All rights reserved. <i className="fas fa-heart text-danger"></i> by <a href="#"><strong>.</strong></a>.</p>
                     </div>
                 </div>
 
