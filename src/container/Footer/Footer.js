@@ -46,7 +46,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Congregate LLC.</strong> All rights reserved. <i className="fas fa-heart text-danger"></i> by <a href="#"><strong>.</strong></a>.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Congregate LLC.</strong> All rights reserved.  <a href="#"><strong></strong></a></p>
                     </div>
                 </div>
 
