@@ -22,7 +22,7 @@ const AboutUs = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg.jpg"
-                title="Supportive Care with Dignity"
+                title="About Gateway Homes To Independence"
                 content="Home"
                 contentTwo="About Us"
             />

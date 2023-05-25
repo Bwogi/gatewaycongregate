@@ -15,7 +15,7 @@ const Contact = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-five.jpg"
-                title="Supportive Care with Dignity"
+                title="Feel Free to Contact Us."
                 content="Home"
                 contentTwo="Contact Us"
             />

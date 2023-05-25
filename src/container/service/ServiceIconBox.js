@@ -10,9 +10,8 @@ const ServiceIconBox = ({ classOption }) => {
             <div className="container">
 
                 <SectionTitle
-                    title="We create a unique action plan for brands"
-                    subTitle="Get your company heading in the right direction with our digital
-                    marketing strategist"
+                    title="Gateway Homes To Independence"
+                    subTitle="Committed to providing superior care solutions to improve patients lives."
                 />
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mb-n6">

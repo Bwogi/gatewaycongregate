@@ -23,8 +23,8 @@ const ContactInformation = ({ classOption }) => {
             <div className="container shape-animate">
                 <SectionTitle
                     titleOption="section-title text-center mb-lg-12 mb-sm-8 mb-xs-8"
-                    title="We are a full-service healthcare agency"
-                    subTitle="Our professional care team has expertise in providing high-quality medical management and restorative care to patients with catastrophic injuries or illnesses"
+                    title="Supportive Care with Dignity"
+                    subTitle="For admissions or to tour our facility, please contact us."
                 />
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mb-n6">
