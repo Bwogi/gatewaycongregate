@@ -21,16 +21,6 @@
         "title": "Contact",
         "list": [
             {
-            "id": 1,
-            "text": "Support Ticket",
-            "url": "/"
-            },
-            {
-            "id": 2,
-            "text": "Help Desk",
-            "url": "/"
-            },
-            {
             "id": 3,
             "text": "Live Chat",
             "url": "/"
