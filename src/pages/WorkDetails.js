@@ -16,7 +16,7 @@ const WorkDetails = () => {
     const data = WorkData.filter(work => work.id === workId);
     return (
         <React.Fragment>
-            <SEO title="Gateway Homes || Work Details" />
+            <SEO title="Gateway Congregate || Work Details" />
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-two.jpg"

@@ -18,7 +18,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const AboutUs = () => {
     return (
         <React.Fragment>
-            <SEO title="Gateway Homes || About" />
+            <SEO title="Gateway Congregate || About" />
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg.jpg"

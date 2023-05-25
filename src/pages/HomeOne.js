@@ -17,7 +17,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const HomeOne = () => {
     return (
         <React.Fragment>
-            <SEO title="Gateway Homes – Committed to providing superior healthcare solutions to improve patients lives." />
+            <SEO title="Gateway Congregate – Committed to providing superior healthcare solutions to improve patients lives." />
             <Header />
             <IntroSlider />
             <HomeAbout />

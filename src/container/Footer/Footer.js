@@ -46,7 +46,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Congregate LLC.</strong> All rights reserved.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Gateway Congregate&reg;.</strong> All rights reserved.</p>
                     </div>
                 </div>
 
