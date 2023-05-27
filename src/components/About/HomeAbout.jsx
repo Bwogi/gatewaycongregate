@@ -54,7 +54,7 @@ const HomeAbout = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Every day brings is a new life opportunity."
+                                subTitle="24-hour Sub-Acute Medical Care"
                                 title="Congregate living in a clean, comfortable, and quiet environment."
                             />
 
