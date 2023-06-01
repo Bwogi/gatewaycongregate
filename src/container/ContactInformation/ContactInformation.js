@@ -23,7 +23,7 @@ const ContactInformation = ({ classOption }) => {
             <div className="container shape-animate">
                 <SectionTitle
                     titleOption="section-title text-center mb-lg-12 mb-sm-8 mb-xs-8"
-                    title="Feel Free to Contact Us"
+                    title="Feel Free to Contact Us."
                     subTitle="For admissions or to tour our facility, please contact us."
                 />
 
