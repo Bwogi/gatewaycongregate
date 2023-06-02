@@ -11,6 +11,7 @@ import Newsletter from '../container/Newsletter/Newsletter';
 import ContactInformation from '../container/ContactInformation/ContactInformation';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
+import LiveChat from '../components/LiveChat';
 
 
 
@@ -27,6 +28,7 @@ const HomeOne = () => {
             {/* <HomeBlog /> */}
             <Newsletter />
             <ContactInformation />
+            <LiveChat />
             <Footer />
             <ScrollToTop />
         </React.Fragment>
